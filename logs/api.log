@@ -1,0 +1,9 @@
+08-01-2021 08:55:13.058 [Gauge] [ERROR] Unable to add directory /Users/cigdem/Downloads/API_TEST/specs to file watcher: lstat /Users/cigdem/Downloads/API_TEST/specs: no such file or directory
+08-01-2021 08:55:13.060 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+08-01-2021 08:55:13.060 [Gauge] [INFO] Initializing specs cache with 0 specs
+08-01-2021 08:55:13.060 [Gauge] [INFO] Initializing steps cache with 0 steps
+08-01-2021 08:55:13.060 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50407
+08-01-2021 08:55:21.218 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"OMDB webservisinde \"Harry Potter\" film serisinde \"Harry Potter and the Sorcerer's Stone\" filmi idsi al\304\261narak aran\304\261r" > 
+08-01-2021 08:55:21.218 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"OMDB webservisinde {} film serisinde {} filmi idsi al\304\261narak aran\304\261r" parameterizedStepValue:"OMDB webservisinde <Harry Potter> film serisinde <Harry Potter and the Sorcerer's Stone> filmi idsi al\304\261narak aran\304\261r" parameters:"Harry Potter" parameters:"Harry Potter and the Sorcerer's Stone" > > 
+08-01-2021 08:55:21.257 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"OMDB webservisinde <movieseries> film serisinde <movieTitle> filmi idsi al\304\261narak aran\304\261r" > 
+08-01-2021 08:55:21.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"OMDB webservisinde {} film serisinde {} filmi idsi al\304\261narak aran\304\261r" parameterizedStepValue:"OMDB webservisinde <movieseries> film serisinde <movieTitle> filmi idsi al\304\261narak aran\304\261r" parameters:"movieseries" parameters:"movieTitle" > > 
